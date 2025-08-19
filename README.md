@@ -20,6 +20,7 @@ Admin Can also get reports like Most Borrowed Books, Active Members, Book Availa
 ![image_alt](https://github.com/VamsiKrishna0101/Nalanda_Library/blob/271c4c26714783b966f2e6828d9e417733fdb346/admin.png)
 ![image_alt](https://github.com/VamsiKrishna0101/Nalanda_Library/blob/271c4c26714783b966f2e6828d9e417733fdb346/add.png)
 ![image_alt](https://github.com/VamsiKrishna0101/Nalanda_Library/blob/271c4c26714783b966f2e6828d9e417733fdb346/delete.png)
+
 3.Borrowing System
 Members can borrow available books and track borrowing history.
 Return books securely with status updates.
