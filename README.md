@@ -2,10 +2,15 @@ Nalanda Library Management System
 Welcome to the Nalanda Library Management System — a comprehensive, scalable full-stack application designed to facilitate library management with modern technologies.
 
 Technologies Used
+
 Backend: Node.js, Javascript, Express, MongoDB, Mongoose, Apollo Server (GraphQL)
+
 Frontend:HTML,Tailwind CSS, React
+
 Authentication: JWT with role-based authorization
+
 Notifications: React Toastify for user feedback
+
 Query Language: REST and GraphQL for API interactions
 
 Features
@@ -49,14 +54,23 @@ RESTful APIs for all core functionalities.
 
 Project Setup
 1.Clone the repo
+
 git clone https://github.com/VamsiKrishna0101/Nalanda_Library.git
+
 cd nalanda-library-system
+
 2.Install dependencies for backend and frontend
+
 cd backend
+
 npm install
+
 cd ../frontend
+
 npm install
+
 3.Change Env variables
+
 Change Mongo_uri,jwt_secret
 
 
